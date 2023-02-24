@@ -52,19 +52,20 @@ p {
     display: block;
     text-align: center;
     margin: 0 20px;
-    background: var(--primary-color);
-    padding: 20px;
-    color: white;
-    text-decoration: none;
-    box-shadow: var(--box-shadow);
-    border-radius: 4px;
   }
   h1 {
     font-size: 45px;
     line-height: 1.5;
   }
 }
-
+.launchApp {
+  background: var(--primary-color);
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  box-shadow: var(--box-shadow);
+  border-radius: 4px;
+}
 .contact-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
