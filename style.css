@@ -57,6 +57,9 @@ p {
     font-size: 45px;
     line-height: 1.5;
   }
+  p {
+    text-align: center;
+  }
 }
 .launchApp {
   background: var(--primary-color);
